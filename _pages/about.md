@@ -13,7 +13,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 I'm currently a senior researcher in Microsoft Research Asia, Beijing. I received my Ph.D. from Fudan University in 2017, under the supervision of [Prof. Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ). I joined MSRA since graduation.
