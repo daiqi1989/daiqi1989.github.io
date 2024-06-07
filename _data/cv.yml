@@ -1,11 +1,18 @@
-- title: Academic Interests
+- title: Professional Service
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Conference Reviewer
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - CVPR, ICCV, ECCV, NeurIPS, AAAI, IJCAI, ACM MM, WACV, ICIP, ICME
+    - title: Journal Reviewer
       items:
-        - Description 1.
-        - Description 2.
+        - TPAMI, IJCV, TIP, TMM, TCSVT, TOMM, MVAP
+    - title: Conference Area Chair
+      items:
+        - CVPR 2024, ACM MM 2024
+    - title: Conference Senior PC Member
+      items:
+        - AAAI 2023-2024
+    - title: Organizer
+      items:
+        - ACM MM Open-Source Software Competition Track 2023
