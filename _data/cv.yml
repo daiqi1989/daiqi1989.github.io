@@ -1,18 +1,15 @@
 - title: Professional Service
   type: nested_list
   contents:
-    - title: Conference Area Chair
+    - title: Area Chair
       items:
         - CVPR 2024, ACM MM 2024
-    - title: Conference Senior PC
+    - title: Senior PC
       items:
         - AAAI 2023-2024
     - title: Organizer
       items:
         - ACM MM Open-Source Software Competition Track 2021
-    - title: Conference Reviewer
+    - title: Reviewer
       items:
-        - CVPR, ICCV, ECCV, NeurIPS, AAAI, IJCAI, ACM MM, WACV, ICIP, ICME
-    - title: Journal Reviewer
-      items:
-        - TPAMI, IJCV, TIP, TMM, TCSVT, TOMM, MVAP
+        - TPAMI, IJCV, TIP, TMM, TCSVT, TOMM, MVAP, CVPR, ICCV, ECCV, NeurIPS, AAAI, IJCAI, ACM MM, WACV, ICIP, ICME
