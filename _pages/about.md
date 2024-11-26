@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm currently a senior researcher in Microsoft Research Asia, Beijing. I received my Ph.D. from Fudan University in 2017, under the supervision of [Prof. Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ). I joined MSRA since graduation.
+I'm currently a principal researcher in Microsoft Research Asia, Beijing. I received my Ph.D. from Fudan University in 2017, under the supervision of [Prof. Yu-Gang Jiang](https://scholar.google.com/citations?user=f3_FP8AAAAAJ). I joined MSRA since graduation.
 
 My research interests lie on computer vision and multimedia. Particularly, I worked on video understanding and analytics (including action recognition, detection, representation learning, etc.), and video generation.
 
