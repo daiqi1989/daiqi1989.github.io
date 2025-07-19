@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Serve as an area chair in ACM Multimedia 2024.
+Serve as an area chair in ACM Multimedia 2024. 
