@@ -3,7 +3,7 @@
   contents:
     - title: Area Chair
       items:
-        - CVPR 2024-2025, ICCV 2025, WACV 2026, ACM MM 2024-2025
+        - CVPR 2024-2026, ICCV 2025, ECCV 2026, WACV 2026, ACM MM 2024-2026
     - title: Senior PC
       items:
         - AAAI 2023-2026
@@ -12,4 +12,4 @@
         - ACM MM Open-Source Software Competition Track 2021
     - title: Reviewer
       items:
-        - TPAMI, IJCV, TIP, TMM, TCSVT, TOMM, MVAP, CVPR, ICCV, ECCV, NeurIPS, AAAI, IJCAI, ACM MM, WACV, ICIP, ICME
+        - TPAMI, IJCV, TIP, TMM, TCSVT, TOMM, MVAP, CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, ACL, AAAI, IJCAI, ACM MM, WACV, ICIP, ICME
